@@ -494,4 +494,6 @@ span {
   text-align: center;
   padding-left: 1%;
   justify-content: center;
+  transition: 0.3s;
+  transform: translateY(0);
 }
