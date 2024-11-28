@@ -489,6 +489,7 @@ span {
 }
 
 .emailid{
-  font-size: 50px;
+  display: flex;
+  font-size: 30px;
   text-align: center;
 }
